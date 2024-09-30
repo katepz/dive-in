@@ -1,4 +1,10 @@
-#toys {
-    max-width: 200px;
-    max-width: 150px;
+/* .bg-color-header {
+    background-color: aquamarine;
+} */
+h1 {
+    background-color: aquamarine;
 }
+
+/* ul {
+    background-image: url(../images/bg-image.jpg);
+} */
