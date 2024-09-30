@@ -76,3 +76,10 @@ Adjusted for contact form, rule of 3, device sizes added for my ease of referenc
 
 V2 ![V2 mobile and tablet](assets/images/V2%20mobile%20and%20tablet.jpg)
 ![V2 desktop](assets/images/V2%20desktop.jpg)
+
+
+
+
+
+## Credits
+Background photo Ben wicks on Unsplash
