@@ -1,4 +1,27 @@
-.bg-color-header{
+/*------------------------------------------------------Images*/
+
+.bg-image-header{
     background: url(../images/bg-image.jpg) center center/cover;
 }
 
+.bg-color-header {
+    background-color: #fafafa;
+}
+
+/*------------------------------------------------------Headings*/
+ h1, h2, h3, h4, h5 {
+    font-family: "Comfortaa", sans-serif;
+ }
+
+h1, h2 {
+    color: #1ebbd7;
+}
+
+/*----------------------------------------- media queries*/
+
+@media screen and (max-width: 767px) {
+    .bg-image-header {
+            background-image: none;
+        }
+}
+    
