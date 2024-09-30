@@ -67,3 +67,12 @@ An academic is writing a paper on diversity and inclusion and needs information 
 
 #### User story 2: 
 **AS A** ?? **I WANT** ??**SO THAT** ??
+
+## Wireframes
+V1 ![V1 mobile and tablet](assets/images/V1%20mobile%20and%20tablet.jpg)
+![V1 desktop](assets/images/V1%20desktop.jpg)
+
+Adjusted for contact form, rule of 3, device sizes added for my ease of reference.
+
+V2 ![V2 mobile and tablet](assets/images/V2%20mobile%20and%20tablet.jpg)
+![V2 desktop](assets/images/V2%20desktop.jpg)
