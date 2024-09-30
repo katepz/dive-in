@@ -1,4 +1,4 @@
-![DI](assets/images/logo-color.png)
+![DI](assets/images/logo-color-crop.png)
 
 # Dive In to Diversity and Inclusion.
 
