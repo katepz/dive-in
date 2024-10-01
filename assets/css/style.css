@@ -47,16 +47,22 @@ div a {
     color: black;
 }
 
+#definition, #minority-groups {
+    background-color: grey;
+}
+
+.def-leg, #legislation {
+    background-color: #fafafa;
+}
 
 /*-------------------------------------------------------general*/
-
-.support {
-    margin: 20px 0px;
+p {
+    font-family: "Dosis", sans-serif;
 }
-/* 
-.def-leg {
-    margin-top: 20px;
-} */
+
+
+
+
 
 
 /*------------------------------------------------------Images*/
@@ -107,6 +113,8 @@ a span {
     margin: 5px;
     padding-left: 30px;
 }
+
+/*------------------------------------------contact form*/
 
 
 
