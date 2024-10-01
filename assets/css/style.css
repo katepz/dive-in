@@ -1,3 +1,41 @@
+/*-----------------------------------------------------Colours*/
+
+.menu-color-definition {
+    background-color: red;
+}
+
+.menu-color-legislation {
+    background-color: orangered;
+}
+
+.menu-color-support {
+    background-color: green;
+}
+
+.menu-color-contact {
+    background-color: blue;
+}
+
+.support-employers {
+    background-color: indigo;
+}
+
+.support-education {
+    background-color: violet;
+}
+
+.support-general {
+    background-color: white;
+}
+
+.nav-links {
+    color: black;
+}
+
+div a {
+    color: black;
+}
+
 /*------------------------------------------------------Images*/
 
 .bg-image-header{
@@ -16,6 +54,7 @@
 
 h1, h2 {
     color: #1ebbd7;
+    background-color: grey;
 }
 
 /*----------------------------------------- media queries*/
@@ -26,3 +65,8 @@ h1, h2 {
         }
 }
     
+@media screen and (min-width: 768px){
+    h2 {
+        background-color: rgba(0, 0 , 0 , 0);
+    }
+}
