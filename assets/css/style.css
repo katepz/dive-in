@@ -76,6 +76,10 @@ p {
     background-color: #fafafa;
 }
 
+.jumbotron {
+    background: url(../images/bg-image.jpg) center center/cover;
+}
+
 /* .protected-image {
     background: url(../images/protected-image.jpg) center center/cover;
     min-height: 100%;
@@ -86,15 +90,35 @@ p {
     font-family: "Comfortaa", sans-serif;
  }
 
-h1, h2 {
+h1  {
+    color: black;
+    top: 10px;
+    
+}
+
+.display-4 {
+    font-weight: 700
+}
+
+h2 {
     color: #1ebbd7;
-    background-color: grey;
+    /* background-color: grey; */
     margin-bottom: 0px;
 }
 
 h3 {
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+/* p .lead {
+    margin-bottom: 50px;
+} */
+/*-------------------------------------------fonts*/
+
+.lead {
+    color: black;
+    font-weight: 600;
 }
 
 /*------------------------------------------links*/
