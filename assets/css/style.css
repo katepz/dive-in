@@ -49,12 +49,15 @@ div a {
 }
 
 /*-------------------------------------------------------general*/
-p {
+p, ul {
     font-family: "Dosis", sans-serif;
+    font-weight: 500;
 }
 
 
-
+li a {
+    font-family: "Dosis", sans-serif;
+}
 
 
 
@@ -111,8 +114,9 @@ p {
 
 
 /*------------------------------------------------------Headings*/
- h1, h2, h3, h4, h5 {
+ h1, h2, h3, h4, h5, h6 {
     font-family: "Comfortaa", sans-serif;
+    font-weight: 700;
  }
 
 h1  {
@@ -144,6 +148,10 @@ h3 {
 .lead {
     color: black;
     font-weight: 600;
+}
+
+h4{
+    margin-top: 20px;
 }
 
 /*------------------------------------------links*/
