@@ -2,6 +2,7 @@
 
 .bg-image-header{
     background: url(../images/bg-image.jpg) center center/cover;
+    background-blend-mode: darken;
 }
 
 .bg-color-header {
