@@ -85,6 +85,44 @@ p {
     min-height: 100%;
     width: 100%;
 } */
+
+.prot-char {
+    background-color: red;
+}
+
+.prot-char-text {
+    background-color: orangered;
+}
+
+.what {
+    background-color: yellow;
+}
+
+.what-text {
+    background-color: green;
+}
+
+.legislation {
+    background-color: blue;
+}
+
+.legislation-text {
+    background-color: indigo;
+}
+
+.protect-image {
+    background: url(../images/protected-image.jpg) center center/cover;
+}
+
+.what-image {
+    background: url(../images/what-image.jpg) center center/cover;
+}
+
+.legislation-image {
+    background: url(../images/legal-image.jpg) center center/cover;
+}
+
+
 /*------------------------------------------------------Headings*/
  h1, h2, h3, h4, h5 {
     font-family: "Comfortaa", sans-serif;
