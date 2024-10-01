@@ -1,7 +1,7 @@
 /*-----------------------------------------------------Colours*/
 
 .menu-color-definition {
-    background-color: red;
+    background-color: #cb3333;
     font-family: "Dosis", sans-serif;
     font-weight: 700;
 }
@@ -28,7 +28,7 @@
 
 
 .support-employers {
-    background-color: indigo;
+    background-color: violet;
 }
 
 .support-education {
@@ -36,23 +36,16 @@
 }
 
 .support-general {
-    background-color: white;
+    background-color: violet;
 }
 
 .nav-links {
     color: black;
+    border: 1px solid black;
 }
 
 div a {
     color: black;
-}
-
-#definition, #minority-groups {
-    background-color: grey;
-}
-
-.def-leg, #legislation {
-    background-color: #fafafa;
 }
 
 /*-------------------------------------------------------general*/
@@ -80,34 +73,28 @@ p {
     background: url(../images/bg-image.jpg) center center/cover;
 }
 
-/* .protected-image {
-    background: url(../images/protected-image.jpg) center center/cover;
-    min-height: 100%;
-    width: 100%;
-} */
-
 .prot-char {
-    background-color: red;
+    background-color: #cb3333;
 }
 
 .prot-char-text {
-    background-color: orangered;
+    background-color: #f3490a;
 }
 
 .what {
-    background-color: yellow;
+    background-color: #e7e711;
 }
 
 .what-text {
-    background-color: green;
+    background-color: #079307;
 }
 
 .legislation {
-    background-color: blue;
+    background-color: #10a2d7;
 }
 
 .legislation-text {
-    background-color: indigo;
+    background-color: #9e04a3;
 }
 
 .protect-image {
