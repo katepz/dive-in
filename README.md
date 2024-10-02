@@ -7,7 +7,6 @@ This website will provide a basic understanding of diversity and inclusion relat
 
 ## Target Audience.
 
-
 The target audience will include:
 
 1. New and existing small to medium sized businesses
@@ -99,19 +98,35 @@ Colour palette: Initially I had a logo - see above - and matched the colour sche
 
 1. ![navbar](assets/images/navbar-mobile.JPG)
 ![navbar](assets/images/nav-bar-desktop.JPG)
+
 The website has a navbar at the top of the page that provides links to other sections of the page.
 
 2. ![links and contact form](assets/images/links-form.JPG)
-The website has links to external sites giving more information for employers and educators as well as a link to a general advice site. The contact form can request other information.
+
+
+The website has links to external sites giving more information for employers and educators as well as a link to a general advice site. 
+
+[ACAS](https://www.acas.org.uk/improving-equality-diversity-and-inclusion)
+
+[University of Plymouth](https://www.plymouth.ac.uk/about-us/teaching-and-learning/inclusivity/how-can-i-be-more-inclusive)
+
+[Citizens Advice](https://www.citizensadvice.org.uk/)
+
+The contact form can request other information.
 
 
 ### Advanced Features
 
 1. ![link](assets/images/link.JPG)
 ![law](assets/images/law.JPG)
+
 The site provides a link to en external website for information as well as an outline of the Equality Act 2010. Also links detailed in Core Features.
 
+[gov.uk](https://www.gov.uk/guidance/equality-act-2010-guidance)
+
+
 2. ![characteristics](assets/images/characteristics.JPG)
+
 The site provides a list of protected characteristics. Also links detailed in Core Features.
 
 ### Optional Features
@@ -125,29 +140,35 @@ All links tested and shown to be working in gitpod environment and on deployed s
 
 #### Validation
 
-HTML validated using [markup validator](https://validator.w3.org/)
+HTML validated using [The W3C Markup Validation Service](https://validator.w3.org/)
 The following results have been found ![html-test](assets/images/html-test.JPG)
 Both relate to p elements - extra closing tags. I have rectified by targetting div classes. 
 ![css-text](assets/images/html-test-repeat.JPG)
 
-CSS validated using [css validator](assets/images/css-test.JPG)
+
+CSS validated using [The W3C CSS Validation Service](assets/images/css-test.JPG)
 All css validated but I do believe I have a lot of unnecessary css. If time allows I will review it.
+
+![css test](assets/images/css-test.JPG)
 
 ## Deployment
 
-The site has been deployed via GitHub. [Dive In](https://katepz.github.io/dive-in/)
+The site has been deployed via GitHub. 
+
+[Dive In](https://katepz.github.io/dive-in/)
+
 Briefly the process is:
-Push repo from Gitpod workspace to Github
-In Github go to the correct repo
-Select the Settings, then Pages options
-Source should be set to - Deploy from a branch
-Branch should be set to -main
-Folder should be set to - /(root)
-Save these settings
-Return to Code then wait a few minutes and refresh
-Deployments will be visible on the RHS
-Click the githib-pages link
-Web address is displayed under - Latest deployments
+- Push repo from Gitpod workspace to Github
+- In Github go to the correct repo
+- Select the Settings, then Pages options
+- Source should be set to - Deploy from a branch
+- Branch should be set to -main
+- Folder should be set to - /(root)
+- Save these settings
+- Return to Code then wait a few minutes and refresh
+- Deployments will be visible on the RHS
+- Click the githib-pages link
+- Web address is displayed under - Latest deployments
 
 
 ## Reflection on the Development Process
@@ -159,8 +180,18 @@ Web address is displayed under - Latest deployments
 ### Final Thoughts
 
 
-## Code Attribution
+## Code Attribution and Credits
+I have used Bootstrap v4.6 to add features to my website.
 
+My images are from Unsplash:
+
+- Ben Wicks - jumbotron background
+- Jason Dent - protected characteristics image
+- Diego PH - what is it image
+- Tingey Injury Law Firm - legal image
+
+Content sourced from 
+[gov.UK](https://www.gov.uk/government/organisations/home-office/about/equality-and-diversity)
 
 ## Future Improvements
 
