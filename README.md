@@ -30,10 +30,10 @@ A user of the website wants to intuitively be  able to navigate the site
 #### User story 2: 
 **AS A** site user **I WANT** to be access more information **SO THAT** I can fulfill my particular need..
 ##### Description:
-Users need a variety of information and the site will be able to field requests for enquiries beyond the scope of the content. Also there will be links to extrenal webpages.
+Users need a variety of information and the site will be able to field requests for enquiries beyond the scope of the content. Also there will be links to external webpages.
 ##### Assessment Criteria:
 1. The website will provide a contact form for requests
-2. The website will provide a contact form for the user to request further information.
+2. The website will provide links to external pages for further information and support.
 
 
 ### SHOULD:
@@ -44,7 +44,8 @@ Users need a variety of information and the site will be able to field requests 
 A new/existing small/medium business owner requires information to ensure a good working environment. 
 ##### Assessment Criteria:
 1. The website will provide a description of Diversity & Inclusion.
-2. The website will provide a contact form for the user to request further information.
+2. The website will also provide 2 external links specifically for employers
+
 
 #### User story 2: 
 **AS A** teacher **I WANT** examples of protected characteristics **SO THAT** I can better understand the needs of my students.
@@ -52,29 +53,20 @@ A new/existing small/medium business owner requires information to ensure a good
 An education proffesional requires information on minority groups to better inform lesson planning, classroom management etc. Perhaps a newly qualified teacher or one that has moved to a new area with different demographics. This person will have undertaken diversity & inclusion training as part of their proffessional cpd.
 ##### Assessment Criteria:
 1. The website will provide a list of protected characteristics.
-2. The website will provide a contact form for the user to request further information.
-
+2. The site provides a link to an extrenal site targetted at education proffessionals.
 
 
 ### COULD:
 
 #### User story 1: 
-**AS AN** individual **I WANT** access to information on legislation **SO THAT** I can ensure my business/workplace/social envirnonment is compliant.
-##### Description:
-A business owner/compliance manager/employee needs information on current legislation to ensure their workplace is compliant or to inform an improvement strategy.
-##### Assessment Criteria:
-1. The website will provide a links to external sites so that the user can have up to date information on legislation and compliance.
-2. The website will provide a contact form for the user to request further information.
-
-#### User story 2: 
 **AS A** individual **I WANT** to know where to get further info and support **SO THAT** I can decide whether to persue a grievance.
 ##### Description:
 A individual has experienced a situation in which they believe they have been subject to bias, conscious or unconscious, and want to decide if they have basis to initiate a grievance.
 ##### Assessment Criteria:
-1. The website will identify and provide links to sites for further information.
+1. The website will identify and provide links to support groups for each of the protected characteristics.
 2. The website will provide a contact form for the user to request further information.
 
-#### User story 1: 
+#### User story 2: 
 **AS AN** academic **I WANT** information on the historical develpoment of diversity and inclusion **SO THAT** I can better inform myself for my upcoming paper.
 ##### Description:
 An academic is writing a paper on diversity and inclusion and needs information on the historical devlopement on the culture and legislation around it. 
@@ -82,8 +74,6 @@ An academic is writing a paper on diversity and inclusion and needs information 
 1. The website will provide an historical timeline with examples.
 2. The website will provide a contact form for the user to request further information.
 
-#### User story 2: 
-**AS A** ?? **I WANT** ??**SO THAT** ??
 
 ## Design Decisions
 
@@ -106,17 +96,31 @@ Bootstrap code : has built in aria labels.
 ## Features Implementation
 ### Core Features
 
+1. ![navbar](assets/images/navbar-mobile.JPG)
+![navbar](assets/images/nav-bar-desktop.JPG)
+The website has a navbar at the top of the page that provides links to other sections of the page.
+
+2. ![links and contact form](assets/images/links-form.JPG)
+The website has links to external sites giving more information for employers and educators as well as a link to a general advice site. The contact form can request other information.
 
 
-
-
+### Advanced Features
 
 1. ![link](assets/images/link.JPG)
 ![law](assets/images/law.JPG)
-The site provides a link to en external website as well as an outline of the Equality Act 2010.
+The site provides a link to en external website for information as well as an outline of the Equality Act 2010. Also links detailed in Core Features.
 
 2. ![characteristics](assets/images/characteristics.JPG)
-The site provides a list of protected characteristics.
+The site provides a list of protected characteristics. Also links detailed in Core Features.
+
+### Optional Features
+
+Not included at this time.
+
+## Testing and Validation
+
+All links tested and shown to be working in gitpod environment.
+
 
 
 ## Credits
