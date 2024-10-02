@@ -59,8 +59,9 @@ li a {
     font-family: "Dosis", sans-serif;
 }
 
-
-
+.navbar {
+    position: fixed;
+}
 /*------------------------------------------------------Images*/
 
 .bg-image-header{
@@ -74,6 +75,7 @@ li a {
 
 .jumbotron {
     background: url(../images/bg-image.jpg) center center/cover;
+   
 }
 
 .prot-char {
