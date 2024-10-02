@@ -183,6 +183,8 @@ I have met all the Learning Outcomes for the project.
 
 I have fixed many of the issues I encountered by myself using research, with help from my cohort and with help from a coding coach.
 
+I have a clearer idea of how I would tackle a similar project in the future based on my experience completing this project.
+
 ### Challenges
 
 ##### Planning
@@ -199,7 +201,9 @@ In the evening of day 2 I was more systematic. I replaced features that I had ad
 
 
 ### Final Thoughts
-Overall I have found this a very enlightening process. I have learned so much in 4 weeks but realise that I have only a passing knowledge of those things and need to put in some extra time on consolidating the html and css, including Bootstrap. 
+Overall I have found this a very enlightening process. I have learned so much in 4 weeks but realise that I have only a passing knowledge of those things and need to put in some extra time on consolidating the html and css, including Bootstrap. Use of balsamiq for wireframing will also be on the hit list.
+
+
 
 
 
@@ -226,3 +230,13 @@ There are many things I would like to change on this project going forward inclu
 - use of images other than as backgrounds
 - positioning of elements 
 - structure and presentation of the footer
+
+## Just In Case
+
+In case anyone reads through to this point I thought I would tell my favourite one-liner as a reward  for what may have been a painful process!
+
+Q: Where would you find a tortoise with no legs?
+
+A: Where you left it 
+
+LOL
