@@ -119,9 +119,34 @@ Not included at this time.
 
 ## Testing and Validation
 
-All links tested and shown to be working in gitpod environment.
+#### Testing
+All links tested and shown to be working in gitpod environment and on deployed site.
+
+#### Validation
+
+HTML validated using [markup validator](https://validator.w3.org/)
+The following results have been found ![html-test](assets/images/html-test.JPG)
+Both relate to p elements. I will take advice on whether they are necessary.
+
+CSS validated using [css validator](assets/images/css-test.JPG)
+All css validated but I do believe I have a lot of unnecessary css. If time allows I will review it.
+
+## Deployment
+
+The site has been deployed via GitHub. [Dive In](https://katepz.github.io/dive-in/)
+
+## Reflection on the Development Process
+
+### Successes
+
+### Challenges
+
+### Final Thoughts
 
 
+## Code Attribution
 
-## Credits
-Background photo Ben wicks on Unsplash
+
+## Future Improvements
+
+
