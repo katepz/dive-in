@@ -199,8 +199,9 @@ In the evening of day 2 I was more systematic. I replaced features that I had ad
 
 
 ### Final Thoughts
-#### Issues I would like to fix
-- 
+Overall I have found this a very enlightening process. I have learned so much in 4 weeks but realise that I have only a passing knowledge of those things and need to put in some extra time on consolidating the html and css, including Bootstrap. 
+
+
 
 
 ## Code Attribution and Credits
@@ -218,4 +219,10 @@ Content sourced from
 
 ## Future Improvements
 
+There are many things I would like to change on this project going forward including but not limited to:
 
+- colour palette
+- layout of information
+- use of images other than as backgrounds
+- positioning of elements 
+- structure and presentation of the footer
