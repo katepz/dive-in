@@ -22,48 +22,8 @@ div a {
     color: black;
 }
 
-/*-------------------------------------------------------general*/
-p, ul {
-    font-family: "Dosis", sans-serif;
-    font-weight: 500;
-}
-
-
-li a {
-    font-family: "Dosis", sans-serif;
-}
-
-.navbar {
-    position: fixed;
-    width: 100%;
-    z-index: 1;
-}
-
-
-/*------------------------------------------------------Images*/
-
-.bg-image-header{
-    background: url(../images/bg-image.jpg) center center/cover;
-    background-blend-mode: darken;
-}
-
-.bg-color-header {
-    background-color: #fafafa;
-}
-
-.jumbotron {
-    background: url(../images/bg-image.jpg) center center/cover;
-   
-}
-
 .prot-char {
     background-color: #cb3333;
-}
-
-.prot-char-text {
-    background-color: #f3490a;
-    font-family: "Dosis", sans-serif;
-    font-weight: 500;
 }
 
 .what {
@@ -78,11 +38,55 @@ li a {
     background-color: #10a2d7;
 }
 
+/*-----------------------------------------fonts*/
+
+p, ul {
+    font-family: "Dosis", sans-serif;
+    font-weight: 500;
+}
+
+
+li a {
+    font-family: "Dosis", sans-serif;
+}
+
+/*-----------------------------------------navbar*/
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+
+/*------------------------------------------------------jumbotron*/
+
+
+.jumbotron {
+    background: url(../images/bg-image.jpg) center center/cover;
+   
+}
+
+/*------------------------------------------------------text*/
+
+.prot-char-text {
+    background-color: #f3490a;
+    font-family: "Dosis", sans-serif;
+    font-weight: 500;
+}
+
 .legislation-text {
     background-color: #9e04a3;
     font-family: "Dosis", sans-serif;
     font-weight: 500;
 }
+
+.display-4 {
+    font-weight: 700;
+    padding-top: 25px ;
+}
+
+/*------------------------------------------------------images*/
 
 .protect-image {
     background: url(../images/protected-image.jpg) center center/cover;
@@ -109,14 +113,8 @@ h1  {
     
 }
 
-.display-4 {
-    font-weight: 700;
-    padding-top: 25px ;
-}
-
 h2 {
     color: #1ebbd7;
-    /* background-color: grey; */
     margin-bottom: 0px;
 }
 
@@ -125,18 +123,16 @@ h3 {
     margin-bottom: 20px;
 }
 
-
-/*-------------------------------------------fonts*/
+h4{
+    margin-top: 20px;
+}
+/*-------------------------------------------misc*/
 
 .lead {
     color: #ffffff;
     font-weight: 600;
     background-color: rgba(0, 0, 0, 0.3);
     width: 80%;
-}
-
-h4{
-    margin-top: 20px;
 }
 
 /*------------------------------------------links*/
@@ -147,18 +143,12 @@ a i {
     text-align: center;
 }
 
-
-
 a span {
     font-size: 25px;
     text-align: center;
     margin: 5px;
     padding-left: 30px;
 }
-
-/*------------------------------------------contact form*/
-
-
 
 /*----------------------------------------- media queries*/
 
