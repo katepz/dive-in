@@ -24,7 +24,7 @@ The target audience will include:
 ##### Description:
 A new/existing small/medium business owner requires information to ensure a good working environment. 
 ##### Assessment Criteria:
-1. The website will provide a description of Diversity & Inclusion including easy to understand, bulleted highlights.
+1. The website will provide a description of Diversity & Inclusion.
 2. The website will provide a contact form for the user to request further information.
 
 #### User story 2: 
@@ -35,7 +35,6 @@ An education proffesional requires information on minority groups to better info
 1. The website will provide a list of minority groups.
 2. The website will provide a contact form for the user to request further information.
 
-## User Stories
 
 ### SHOULD:
 
