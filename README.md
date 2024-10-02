@@ -175,6 +175,8 @@ Briefly the process is:
 
 ### Successes
 
+I have made a website from
+
 ### Challenges
 
 ### Final Thoughts

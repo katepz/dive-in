@@ -1,31 +1,5 @@
 /*-----------------------------------------------------Colours*/
 
-.menu-color-definition {
-    background-color: #cb3333;
-    font-family: "Dosis", sans-serif;
-    font-weight: 700;
-}
-
-.menu-color-legislation {
-    background-color: orangered;
-    font-family: "Dosis", sans-serif;
-    font-weight: 700;
-}
-
-
-.menu-color-support {
-    background-color: green;
-    font-family: "Dosis", sans-serif;
-    font-weight: 700;
-}
-
-
-.menu-color-contact {
-    background-color: blue;
-    font-family: "Dosis", sans-serif;
-    font-weight: 700;
-}
-
 
 .support-employers {
     background-color: violet;
@@ -61,12 +35,11 @@ li a {
 
 .navbar {
     position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 
-/* .remove-p {
-    font-family: "Dosis", sans-serif;
-    font-weight: 500;
-} */
+
 /*------------------------------------------------------Images*/
 
 .bg-image-header{
@@ -151,14 +124,14 @@ h3 {
     margin-bottom: 20px;
 }
 
-/* p .lead {
-    margin-bottom: 50px;
-} */
+
 /*-------------------------------------------fonts*/
 
 .lead {
-    color: black;
+    color: #ffffff;
     font-weight: 600;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 80%;
 }
 
 h4{
@@ -197,5 +170,15 @@ a span {
 @media screen and (min-width: 768px){
     h2 {
         background-color: rgba(0, 0 , 0 , 0);
+    }
+    .lead {
+        width: 33%;
+    }
+}
+
+@media screen and (min-width: 992px){
+  
+    .lead {
+        width: 25%;
     }
 }
