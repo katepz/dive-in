@@ -62,6 +62,11 @@ li a {
 .navbar {
     position: fixed;
 }
+
+/* .remove-p {
+    font-family: "Dosis", sans-serif;
+    font-weight: 500;
+} */
 /*------------------------------------------------------Images*/
 
 .bg-image-header{
@@ -84,6 +89,8 @@ li a {
 
 .prot-char-text {
     background-color: #f3490a;
+    font-family: "Dosis", sans-serif;
+    font-weight: 500;
 }
 
 .what {
@@ -100,6 +107,8 @@ li a {
 
 .legislation-text {
     background-color: #9e04a3;
+    font-family: "Dosis", sans-serif;
+    font-weight: 500;
 }
 
 .protect-image {

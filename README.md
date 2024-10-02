@@ -3,7 +3,7 @@
 # Dive In to Diversity and Inclusion.
 
 ## Overview
-This website will provide a basic understanding of diversity and inclusion relating to the workplace including educational settings. Links will be provided for the user to investigate current legislation. Relevant support groups will be identified and links provided. In the future the website may provide information on the historical developement of diversity and inclusion.
+This website will provide a basic understanding of diversity and inclusion relating to the workplace including educational settings. Links will be provided for the user to investigate current legislation. Relevant websites will be identified and links provided. In the future the website may provide information on the historical developement of diversity and inclusion as well as links to support groups for all protected characteristics.
 
 ## Target Audience.
 
@@ -22,19 +22,18 @@ The target audience will include:
 #### User story 1 : 
 **AS A** site user **I WANT** easy navigation **SO THAT** I can quickly find the information I am looking for.
 ##### Description:
-A user of the website wants to intuitively be  able to navigate the site
+A user of the website wants to intuitively be  able to navigate the site.
 ##### Assessment Criteria:
 1. The website will provide a navbar.
 2. The nav bar will be at the top of the page.
 
 #### User story 2: 
-**AS A** site user **I WANT** to be access more information **SO THAT** I can fulfill my particular need..
+**AS A** site user **I WANT** to be able to access more information **SO THAT** I can fulfill my particular need.
 ##### Description:
 Users need a variety of information and the site will be able to field requests for enquiries beyond the scope of the content. Also there will be links to external webpages.
 ##### Assessment Criteria:
 1. The website will provide a contact form for requests
 2. The website will provide links to external pages for further information and support.
-
 
 ### SHOULD:
 
@@ -46,14 +45,13 @@ A new/existing small/medium business owner requires information to ensure a good
 1. The website will provide a description of Diversity & Inclusion.
 2. The website will also provide 2 external links specifically for employers
 
-
 #### User story 2: 
 **AS A** teacher **I WANT** examples of protected characteristics **SO THAT** I can better understand the needs of my students.
 ##### Description:
 An education proffesional requires information on minority groups to better inform lesson planning, classroom management etc. Perhaps a newly qualified teacher or one that has moved to a new area with different demographics. This person will have undertaken diversity & inclusion training as part of their proffessional cpd.
 ##### Assessment Criteria:
 1. The website will provide a list of protected characteristics.
-2. The site provides a link to an extrenal site targetted at education proffessionals.
+2. The site provides a link to an external site targetted at education proffessionals.
 
 
 ### COULD:
@@ -90,8 +88,11 @@ Note: final structure altered considerably.
 
 ### Accessibility
 
-Images : will have alt text. HAVE NOT BEEN ABLE TO ALT TEXT TO BACKGROUND IMAGES.
+Images : will have alt text. ** I HAVE NOT BEEN ABLE TO ADD ALT TEXT TO BACKGROUND IMAGES**
+
 Bootstrap code : has built in aria labels.
+
+Colour palette: Initially I had a logo - see above - and matched the colour scheme to that using the pippete on the colour picker. However I have not used the logo as yet on the page so I have chosen a bold palette to match the rainbow theme of the LGBT+++ movement.To contrast text better I toned doen the initial choices of colours and increased the font weight. Text colour is black.
 
 ## Features Implementation
 ### Core Features
@@ -115,7 +116,7 @@ The site provides a list of protected characteristics. Also links detailed in Co
 
 ### Optional Features
 
-Not included at this time.
+Are not included at this time.
 
 ## Testing and Validation
 
@@ -126,7 +127,8 @@ All links tested and shown to be working in gitpod environment and on deployed s
 
 HTML validated using [markup validator](https://validator.w3.org/)
 The following results have been found ![html-test](assets/images/html-test.JPG)
-Both relate to p elements. I will take advice on whether they are necessary.
+Both relate to p elements - extra closing tags. I have rectified by targetting div classes. 
+![css-text](assets/images/html-test-repeat.JPG)
 
 CSS validated using [css validator](assets/images/css-test.JPG)
 All css validated but I do believe I have a lot of unnecessary css. If time allows I will review it.
