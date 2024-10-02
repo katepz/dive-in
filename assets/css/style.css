@@ -110,7 +110,8 @@ h1  {
 }
 
 .display-4 {
-    font-weight: 700
+    font-weight: 700;
+    padding-top: 25px ;
 }
 
 h2 {

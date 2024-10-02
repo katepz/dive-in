@@ -93,6 +93,8 @@ Bootstrap code : has built in aria labels.
 
 Colour palette: Initially I had a logo - see above - and matched the colour scheme to that using the pippete on the colour picker. However I have not used the logo as yet on the page so I have chosen a bold palette to match the rainbow theme of the LGBT+++ movement.To contrast text better I toned doen the initial choices of colours and increased the font weight. Text colour is black.
 
+Colour and Background in jumbotron: adjusted for better viewing.
+
 ## Features Implementation
 ### Core Features
 
@@ -175,11 +177,30 @@ Briefly the process is:
 
 ### Successes
 
-I have made a website from
+I have made a website from scratch for the first time.
+
+I have met all the Learning Outcomes for the project.
+
+I have fixed many of the issues I encountered by myself using research, with help from my cohort and with help from a coding coach.
 
 ### Challenges
 
+##### Planning
+I found the planning process straightforward at the time but as I progressed through I realised that my planning was inadequate. This made it harder to stick to an overall vision and when needing help it was difficult to reference what I was asking for. 
+
+I used powerpoint to produce basic wireframe diagrams, I revised these early on but they do not reflect the final product.
+
+Visual effects are difficult for me and so colour palette was not something I thought much about beforehand aprt from after creating my logo.
+
+#### Implementation
+My work lacked structure. I spent the first 2 days feeling like a rabbit in the headlights. Although elements were in place and all links worked, my page was a mess. I found positioning very difficult and the use of images other than as backgrounds was a real issue for me. 
+
+In the evening of day 2 I was more systematic. I replaced features that I had added with Bootstrap features. This made the page more presentable. I had an issue with the functionality of the Bootstrap navbar toggle menu. One of my chort made a suggestion that worked - I had added the wrong Bootstrap js script.
+
+
 ### Final Thoughts
+#### Issues I would like to fix
+- 
 
 
 ## Code Attribution and Credits
