@@ -136,6 +136,19 @@ All css validated but I do believe I have a lot of unnecessary css. If time allo
 ## Deployment
 
 The site has been deployed via GitHub. [Dive In](https://katepz.github.io/dive-in/)
+Briefly the process is:
+Push repo from Gitpod workspace to Github
+In Github go to the correct repo
+Select the Settings, then Pages options
+Source should be set to - Deploy from a branch
+Branch should be set to -main
+Folder should be set to - /(root)
+Save these settings
+Return to Code then wait a few minutes and refresh
+Deployments will be visible on the RHS
+Click the githib-pages link
+Web address is displayed under - Latest deployments
+
 
 ## Reflection on the Development Process
 
